@@ -14,7 +14,7 @@ export const affiliatePrograms = {
     network: 'A8',
     rewardYen: 8000,
     status: 'active',
-    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY',
+    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY',
   },
   ihin110: {
     name: '遺品整理110番',
