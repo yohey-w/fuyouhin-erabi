@@ -27,12 +27,7 @@ keywords: ["墨田区 不用品回収 おすすめ", "墨田区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>墨田区を含む全国対応。まず無料見積もりを取り、現在の相場感をつかむ用途に向いています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 墨田区で比較しやすい不用品回収サービス5選
 
@@ -63,12 +58,7 @@ keywords: ["墨田区 不用品回収 おすすめ", "墨田区 不用品回収 
 - 見積もりの明確さ: 基本料金に含まれる作業範囲が書面化されているか
 - 日時条件: 希望時間帯に対応できるか、追加費用の条件が明記されているか
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>複数社比較を前提に、墨田区での回収費用を短時間で把握したい人向け。条件をそろえて見積もりを取ると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">墨田区対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -92,11 +82,6 @@ keywords: ["墨田区 不用品回収 おすすめ", "墨田区 不用品回収 
 
 墨田区で不用品回収を依頼するなら、まずは同条件で複数見積もりを取り、追加料金条件まで比較することが重要です。急ぎの片付けや大型家具の一括処分では民間業者が使いやすく、少量で時間に余裕がある場合は自治体回収を組み合わせると費用を抑えやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>墨田区で回収費用と対応スピードをまとめて比較したい場合は、無料見積もりから始めるのが近道です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

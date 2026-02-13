@@ -28,12 +28,7 @@ keywords: ["広島市 不用品回収 おすすめ", "広島市 不用品回収 
 見積書では、階段搬出、スタッフ追加、解体作業、時間指定の有無を確認すると、当日の費用ぶれを抑えやすくなります。
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>広島市対応の無料見積もり窓口。まず相場の基準線を作ってから比較したい方に向いています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">広島市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 広島市で比較したい不用品回収サービス5選
 
@@ -67,12 +62,7 @@ keywords: ["広島市 不用品回収 おすすめ", "広島市 不用品回収 
 
 退去期限が近い場合や、短時間で片付けたい場合は民間業者が実務的です。時間に余裕があり点数が少ない場合は、自治体回収との併用が有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>広島市で条件をそろえて見積もりを比較したい方へ。先に無料見積もりを取ると、費用の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">条件をそろえて見積もり比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -88,12 +78,7 @@ keywords: ["広島市 不用品回収 おすすめ", "広島市 不用品回収 
 ### Q4. 回収できない品目はありますか？
 家電リサイクル法対象品や処理困難物は、業者ごとに対応条件が異なります。依頼前に品目一覧を共有し、回収可否と追加費用の有無を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>広島市で複数社比較を始めるなら、無料見積もりで料金感と作業条件を先に確認する方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

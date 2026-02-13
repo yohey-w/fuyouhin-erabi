@@ -34,12 +34,7 @@ keywords: ["新潟市 不用品回収 おすすめ", "新潟市 不用品回収 
 
 問い合わせ段階で写真を共有し、作業条件をそろえて見積もりを取ると、後からの齟齬を減らしやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>新潟市対応の業者をまとめて比較しやすく、費用感の基準を作る初回相談として使いやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">新潟市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新潟市で比較したい不用品回収サービス5選
 
@@ -55,12 +50,7 @@ keywords: ["新潟市 不用品回収 おすすめ", "新潟市 不用品回収 
 
 実際に問い合わせると、基本料金が近くても「養生費」「解体作業費」「搬出人員の追加費」で総額が変わるケースが多いです。見積書では、追加料金が発生する条件を明記してもらうのが安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>急ぎの片付けでも、先に複数社の条件を並べて比較することで費用の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">追加費用の条件までまとめて確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 新潟市は自治体回収と業者回収をどう使い分ける？
 
@@ -92,12 +82,7 @@ keywords: ["新潟市 不用品回収 おすすめ", "新潟市 不用品回収 
 ### Q4. 新潟市の自治体回収と民間業者はどう選べばよいですか？
 費用重視で少量処分なら自治体回収、退去期限が近い場合や大量処分なら民間業者が向いています。目的と期限を先に決めると、選択ミスを減らしやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>新潟市で条件に合う回収プランを選ぶために、まず無料見積もりで費用感と対応範囲を比較しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

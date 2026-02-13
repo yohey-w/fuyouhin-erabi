@@ -27,12 +27,7 @@ keywords: ["熊本市 不用品回収 おすすめ", "熊本市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>熊本市を含む全国対応の相談窓口。まず相場感をつかみたいときに比較の起点を作りやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 熊本市で比較しておきたい不用品回収サービス5選
 
@@ -63,12 +58,7 @@ keywords: ["熊本市 不用品回収 おすすめ", "熊本市 不用品回収 
 
 点数が少なく日程に余裕があるなら自治体回収、引越し前後で一気に片付けるなら民間業者、という使い分けが現実的です。熊本市の公式ルールと業者の回収条件を両方確認して進めてください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>熊本市で複数社比較を進める際、最初に相場を把握する窓口として使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">熊本市対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -88,12 +78,7 @@ keywords: ["熊本市 不用品回収 おすすめ", "熊本市 不用品回収 
 
 「追加料金が発生する条件」「キャンセル料」「回収不可品目」の3点を先に確認してください。電話見積もりだけで確定せず、写真見積もりや現地見積もりで条件をそろえると金額差の理由を把握しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>熊本市で不用品回収の相場を早く確認したい場合に、比較の出発点として活用しやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

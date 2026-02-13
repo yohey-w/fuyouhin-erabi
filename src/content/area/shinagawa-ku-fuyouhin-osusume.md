@@ -27,12 +27,7 @@ keywords: ["品川区 不用品回収 おすすめ", "品川区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>品川区を含む全国対応の相談窓口。まず無料見積もりで料金の基準線を作っておくと、相見積もりの判断がしやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 品川区で比較したい不用品回収サービス5選
 
@@ -57,12 +52,7 @@ keywords: ["品川区 不用品回収 おすすめ", "品川区 不用品回収 
 - 即日対応の条件: 当日枠の有無だけでなく、追加費用の条件が明記されているか
 - 悪質業者対策: 極端な安値だけで決めず、連絡先や会社情報を確認する
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>品川区で複数社比較を短時間で進めたい方向け。作業条件をそろえて見積もりを取ると、費用の妥当性を見極めやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">品川区対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ### 自治体回収と不用品回収業者は何が違う？
 
@@ -93,11 +83,6 @@ keywords: ["品川区 不用品回収 おすすめ", "品川区 不用品回収 
 
 品川区で不用品回収を成功させるポイントは、相場確認だけでなく、搬出条件と追加料金条件を同時に比較することです。まずは無料見積もりで複数社の条件を並べ、納得できる内容で依頼先を決めることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>品川区で不用品回収の費用と対応日程をまとめて確認したい方は、無料見積もりから比較を始めると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

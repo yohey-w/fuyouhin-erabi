@@ -27,12 +27,7 @@ keywords: ["那覇市 不用品回収 おすすめ", "那覇市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>那覇市で相場感を早くつかみたい方向けの無料見積もり窓口です。比較の起点として使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">那覇市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 那覇市対応の不用品回収サービス比較5選
 
@@ -66,12 +61,7 @@ keywords: ["那覇市 不用品回収 おすすめ", "那覇市 不用品回収 
 
 少量で日程に余裕があるなら自治体回収、退去期限が近い・点数が多いなら民間業者という使い分けが現実的です。まず2〜3社の見積もりを取り、自治体回収の費用と並べて比較すると判断しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>那覇市で急ぎの片付けが必要なときに、対応業者の見積もりを比較しやすい窓口です。条件をそろえて確認しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">那覇市の対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -91,12 +81,7 @@ keywords: ["那覇市 不用品回収 おすすめ", "那覇市 不用品回収 
 
 費用重視で急ぎでなければ自治体回収、退去前や大量処分など時間優先なら民間業者が向いています。まず見積もり比較で総額と日程を確認すると選びやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>那覇市で不用品回収を比較したい方へ。無料見積もりで相場を確認してから依頼先を決めると、費用とスピードのバランスを取りやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

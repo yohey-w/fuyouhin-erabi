@@ -28,12 +28,7 @@ keywords: ["鎌倉市 不用品回収 おすすめ", "鎌倉市 不用品回収 
 見積もり時は、階段作業の有無、エレベーター養生、駐車位置から玄関までの距離を事前に伝えると、当日の追加請求を避けやすくなります。
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>鎌倉市を含む全国対応の相談窓口。先に無料見積もりを取り、相場の基準線を作ってから比較したいときに使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 鎌倉市で比較したい不用品回収サービス5選
 
@@ -65,12 +60,7 @@ keywords: ["鎌倉市 不用品回収 おすすめ", "鎌倉市 不用品回収 
 
 退去日が近い場合や一度に処分点数が多い場合は業者利用が有効です。時間に余裕があり点数が少ない場合は自治体回収との併用が現実的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>鎌倉市で条件をそろえて比較したい方向け。無料見積もりで費用の妥当性を確認しながら進められます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">鎌倉市対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 鎌倉市ならではの事情は？藤沢市・横浜市との違い
 
@@ -100,11 +90,6 @@ keywords: ["鎌倉市 不用品回収 おすすめ", "鎌倉市 不用品回収 
 
 鎌倉市の不用品回収は、相場だけでなく搬出条件と時間帯制約の確認が費用差を左右します。まずは同じ条件で複数社の見積もりを取り、追加料金の条件まで比較してから依頼先を決めることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>鎌倉市で不用品回収の費用と対応日程をまとめて確認したい場合は、無料見積もりから比較を始めると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

@@ -29,12 +29,7 @@ keywords: ["藤沢市 不用品回収 おすすめ", "藤沢市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>藤沢市対応の業者をまとめて比較しやすく、最初の相場確認に使いやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">藤沢市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 藤沢市で比較したい不用品回収サービス5選
 
@@ -50,12 +45,7 @@ keywords: ["藤沢市 不用品回収 おすすめ", "藤沢市 不用品回収 
 
 実際に問い合わせると、基本料金が近くても総額は変わります。とくに「養生費」「駐車料金立替」「家電リサイクル対象品の運搬費」の扱いは先に確認しておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>見積もり条件をそろえて比較したい場合は、先に無料相談で相場の基準を作る方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">追加費用条件までまとめて確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 藤沢市では自治体回収と業者回収をどう使い分ける？
 
@@ -87,12 +77,7 @@ keywords: ["藤沢市 不用品回収 おすすめ", "藤沢市 不用品回収 
 ### Q4. 回収できないものはありますか？
 家電リサイクル法対象品や処理困難物は、業者ごとに扱いが異なります。事前に品目一覧を伝え、回収可否と別料金の有無を確認しておくと当日の持ち帰り漏れを防ぎやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>藤沢市で条件に合う回収プランを選ぶために、まずは無料見積もりで費用感と対応範囲を比較しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -28,12 +28,7 @@ keywords: ["杉並区 不用品回収 おすすめ", "杉並区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>杉並区対応の無料見積もり窓口。まず相場をつかみ、追加料金の条件まで比較したいときに使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区で比較候補に入れたい不用品回収サービス5選
 
@@ -71,12 +66,7 @@ keywords: ["杉並区 不用品回収 おすすめ", "杉並区 不用品回収 
 引越し期限が近いなら業者回収、時間に余裕があり点数が少ないなら自治体回収の併用が実務的です。
 阿佐ヶ谷・高円寺エリアの集合住宅では管理規約で搬出時間が決まっていることもあるため、管理会社確認を先に済ませると当日がスムーズです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>杉並区で条件を揃えた相見積もりを取りたい方に向く窓口です。費用感と追加料金条件を同時に確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">杉並区の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -96,12 +86,7 @@ keywords: ["杉並区 不用品回収 おすすめ", "杉並区 不用品回収 
 会社情報、許可の有無、見積書明細の記載を確認してください。
 連絡先が不明瞭で、現地確認なしに極端な安値だけを提示する場合は、契約を急がない判断が有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>杉並区で不用品回収を急ぐ場合も、まずは無料見積もりで相場と条件を把握してから進めると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

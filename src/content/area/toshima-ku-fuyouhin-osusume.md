@@ -27,12 +27,7 @@ keywords: ["豊島区 不用品回収 おすすめ", "豊島区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>豊島区対応の業者をまとめて比較したい方向け。まず無料見積もりで料金帯の基準線を作ると、交渉時の判断がしやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 豊島区で比較したい不用品回収サービス5選
 
@@ -61,12 +56,7 @@ keywords: ["豊島区 不用品回収 おすすめ", "豊島区 不用品回収 
 | 豊島区の粗大ごみ回収 | 点数が少なく、回収日まで待てる | 収集日が限定され、運び出しは原則自分で行う |
 | 民間の不用品回収業者 | 退去直前や大量処分、運び出しを任せたい | 自治体回収より費用が高くなる傾向 |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>豊島区で複数社の見積もりを短時間で比較したい場合に使いやすい窓口です。条件をそろえて依頼すると、料金の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">豊島区対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -85,12 +75,7 @@ keywords: ["豊島区 不用品回収 おすすめ", "豊島区 不用品回収 
 
 極端に安い口頭見積もりだけで即決せず、書面で追加料金条件を確認してください。会社情報、連絡先、キャンセル規定、処理方法の説明があるかを確認すると、トラブルの予防につながります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>豊島区で不用品回収の費用と対応日程をまとめて確認したい方は、無料見積もりで比較を始めると判断が早くなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

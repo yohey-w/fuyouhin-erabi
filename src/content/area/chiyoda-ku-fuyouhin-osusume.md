@@ -27,12 +27,7 @@ keywords: ["千代田区 不用品回収 おすすめ", "千代田区 不用品�
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>千代田区対応の無料見積もり窓口。料金の基準線をつくって、他社比較を進めたいときに使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 千代田区で比較しやすい不用品回収サービス5選
 
@@ -66,12 +61,7 @@ keywords: ["千代田区 不用品回収 おすすめ", "千代田区 不用品�
 
 退去期限が近い、またはオフィス移転で一度に片付けたい場合は民間業者が実務的です。時間に余裕があり点数が少ない場合は自治体回収を組み合わせる方法も検討できます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>条件をそろえた相見積もりを取りたい方に向く窓口です。千代田区での回収費用と作業条件をまとめて確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">千代田区の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ### 料金を抑えて進める3ステップ
 
@@ -102,12 +92,7 @@ keywords: ["千代田区 不用品回収 おすすめ", "千代田区 不用品�
 
 会社情報、許可の有無、見積書の明細、追加料金条件の記載を確認してください。極端に安い見積もりのみを強調する業者は、条件面を細かく確認するのが安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>急ぎの片付けでも、まずは無料見積もりで相場を把握してから進めると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

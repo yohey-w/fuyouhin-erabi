@@ -27,12 +27,7 @@ keywords: ["江戸川区 不用品回収 おすすめ", "江戸川区 不用品�
 
 ※料金は物量・品目・建物条件・時間帯で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>江戸川区対応の回収業者をまとめて比較したい方向け。無料見積もりで相場の基準線を作れます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 江戸川区で比較したい不用品回収サービス5候補
 
@@ -53,12 +48,7 @@ keywords: ["江戸川区 不用品回収 おすすめ", "江戸川区 不用品�
 
 無許可業者へ依頼した場合、不法投棄や不適切処理のリスクがあります。問い合わせ時点で許可情報と見積書の整合を確認する進め方が安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>江戸川区で複数社を同条件で比べたい場合、最初の相場確認に使いやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">江戸川区対応業者の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 自治体回収と民間回収、江戸川区ではどう使い分ける？
 
@@ -89,12 +79,7 @@ keywords: ["江戸川区 不用品回収 おすすめ", "江戸川区 不用品�
 
 エリアによって道路幅や交通量が異なるため、作業車の停車位置を事前に確認することが重要です。葛西側と小岩側では動線条件が変わるため、住所と建物条件を具体的に共有すると見積もり精度が上がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>江戸川区で費用と作業条件を比較するなら、同条件の無料見積もりから始めると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

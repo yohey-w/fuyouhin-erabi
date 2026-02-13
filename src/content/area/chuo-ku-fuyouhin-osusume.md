@@ -27,12 +27,7 @@ keywords: ["中央区 不用品回収 おすすめ", "中央区 不用品回収 
 
 ※料金は品目・搬出条件・時間帯で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>中央区対応の相談窓口。まず無料見積もりを取り、相場の基準を作ってから比較したい人に向いています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 中央区で比較しやすい不用品回収サービス5選
 
@@ -65,12 +60,7 @@ keywords: ["中央区 不用品回収 おすすめ", "中央区 不用品回収 
 
 退去日が近い、または1日で片付けたい場合は民間業者が現実的です。時間に余裕があり、点数が少ない場合は自治体回収との併用も有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>中央区で相見積もりを急ぐ場合の窓口として使いやすいサービスです。条件をそろえて比較すると、費用の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">中央区対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -94,11 +84,6 @@ keywords: ["中央区 不用品回収 おすすめ", "中央区 不用品回収 
 
 中央区で不用品回収を依頼する際は、価格だけでなく搬出条件と追加料金条件をそろえて比較することが重要です。特に銀座・日本橋の業務エリアや、勝どき・晴海の集合住宅では作業条件差が出やすいため、事前共有の丁寧さが総額に影響します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>中央区での不用品回収をスムーズに比較したい場合は、まず無料見積もりで相場を確認するところから始めるのがおすすめです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

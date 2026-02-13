@@ -29,12 +29,7 @@ keywords: ["厚木市 不用品回収 おすすめ", "厚木市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>厚木市対応の無料見積もり窓口。まず相場を把握してから依頼先を比較したい方に向いています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">厚木市の見積もりを無料で確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 厚木市対応の不用品回収サービス比較5選
 
@@ -67,12 +62,7 @@ keywords: ["厚木市 不用品回収 おすすめ", "厚木市 不用品回収 
 
 少量で日程に余裕があるなら自治体回収、引越しや退去が迫っているなら民間業者という使い分けが有効です。まず民間2〜3社の見積もりを取り、自治体回収と総額・日程で比較する方法が判断しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>厚木市で急ぎの片付けを進めたいときに、対応可能業者の比較を進めやすい窓口です。条件をそろえて見積もりを取りましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">厚木市の対応業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -94,11 +84,6 @@ keywords: ["厚木市 不用品回収 おすすめ", "厚木市 不用品回収 
 本厚木周辺と郊外住宅地では作業条件が異なるため、事前情報の共有が見積もり精度を大きく左右します。
 まずは2〜3社の無料見積もりで相場を把握し、自治体回収との総額と日程を比較して判断する方法をおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>厚木市で不用品回収を比較したい方へ。無料見積もりで費用感を確認してから依頼先を決めると、スピードとコストの両立を図りやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

@@ -28,12 +28,7 @@ keywords: ["台東区 不用品回収 おすすめ", "台東区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>台東区を含む全国対応。まず無料見積もりで相場を把握したい人に使いやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 台東区で比較したい不用品回収サービス5選
 
@@ -70,12 +65,7 @@ keywords: ["台東区 不用品回収 おすすめ", "台東区 不用品回収 
 退去期限が近い場合や一度に処分量が多い場合は業者が有力です。点数が少なく時間に余裕があるなら自治体回収との併用が現実的です。
 台東区は集合住宅の比率が高いエリアもあるため、共用部養生の有無を見積もり時に確認しておくと当日のトラブルを減らせます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>台東区で回収条件をそろえて比較したい場合は、無料見積もりで相場と追加料金条件を先に把握するのが近道です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">台東区対応の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -101,11 +91,6 @@ keywords: ["台東区 不用品回収 おすすめ", "台東区 不用品回収 
 とくに観光動線と生活動線が重なる上野・浅草周辺では、時間帯による作業難易度の差が料金へ反映されやすい点に注意が必要です。
 墨田区や荒川区とまたぐ引越し案件では、回収拠点ごとの対応可能時間をそろえて比較すると判断しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>まずは無料見積もりで台東区の料金目安を把握し、複数社比較で条件の良い回収プランを選びましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

@@ -29,12 +29,7 @@ keywords: ["相模原市 不用品回収 おすすめ", "相模原市 不用品�
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>相模原市を含む全国対応の見積もり窓口。まず相場の基準線を作りたいときに使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 相模原市で比較しやすい不用品回収サービス5選
 
@@ -65,12 +60,7 @@ keywords: ["相模原市 不用品回収 おすすめ", "相模原市 不用品�
 
 急ぎで大量処分したい場合は民間業者、日程に余裕があり少量なら自治体回収を組み合わせる形が現実的です。粗大ごみの受付ルールは更新されるため、依頼前に相模原市公式情報を確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>複数社比較を前提に、相模原市での回収費用を短時間で確認したい方向けの窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">相模原市対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -90,12 +80,7 @@ keywords: ["相模原市 不用品回収 おすすめ", "相模原市 不用品�
 
 見積書に「追加料金の発生条件」が明記されているかを確認してください。電話だけで確定せず、現地または写真見積もりで条件をそろえるとトラブルを避けやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>まず相場を把握してから業者を選びたい場合は、無料見積もり比較から始める方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

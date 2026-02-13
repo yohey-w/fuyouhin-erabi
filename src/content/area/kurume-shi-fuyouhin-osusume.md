@@ -28,12 +28,7 @@ keywords: ["久留米市 不用品回収 おすすめ", "久留米市 不用品�
 
 ※料金は物量・搬出条件・時期で変動します。契約前に各社公式案内をご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>久留米市対応の相談窓口。回収費用の目安を早めに把握したい場合に、無料見積もり比較から始めやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 久留米市で比較したい不用品回収サービス5選
 
@@ -69,12 +64,7 @@ keywords: ["久留米市 不用品回収 おすすめ", "久留米市 不用品�
 実務では、自治体回収で処理できる小物を先に出し、大型家具や家電のみ業者回収に分ける方法がよく使われます。
 この切り分けは、費用管理と作業時間短縮の両方に効果があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>久留米市で見積もり条件をそろえて比較したい場合は、無料相談から相場を把握しておくと判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">久留米市対応の見積もりを比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -98,12 +88,7 @@ keywords: ["久留米市 不用品回収 おすすめ", "久留米市 不用品�
 見積書に追加費用の条件が明記されているかを確認してください。
 口頭だけで契約を急がせる業者は避け、2社以上の条件比較で総額を確認するのが安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>久留米市で急ぎの片付けを進めるなら、まず無料見積もりで費用と対応可能時間をまとめて確認する方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりで回収条件を確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

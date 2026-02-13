@@ -28,12 +28,7 @@ keywords: ["岡崎市 不用品回収 おすすめ", "岡崎市 不用品回収 
 見積もり時は、階段搬出、スタッフ追加、時間指定、解体作業の有無を確認すると、当日の費用ぶれを抑えやすくなります。
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>岡崎市を含む全国対応の相談窓口。無料見積もりで相場の基準線を作ってから比較したいときに使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">岡崎市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 岡崎市で比較したい不用品回収サービス5選
 
@@ -65,12 +60,7 @@ keywords: ["岡崎市 不用品回収 おすすめ", "岡崎市 不用品回収 
 
 退去日が近い場合や一度に大量処分したい場合は民間業者が実務的です。時間に余裕があり処分点数が少ない場合は、自治体回収との併用が有効です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>岡崎市で条件をそろえて比較したい方向け。無料見積もりを先に取ると、費用の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">条件をそろえて見積もり比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -86,12 +76,7 @@ keywords: ["岡崎市 不用品回収 おすすめ", "岡崎市 不用品回収 
 ### Q4. 回収できない品目はありますか？
 家電リサイクル法対象品や処理困難物は、業者ごとに対応条件が異なります。依頼前に品目リストを共有し、回収可否と追加費用を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>岡崎市で費用と日程をまとめて比較したい場合は、無料見積もりから始めると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

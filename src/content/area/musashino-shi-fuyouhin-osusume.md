@@ -28,12 +28,7 @@ keywords: ["武蔵野市 不用品回収 おすすめ", "武蔵野市 不用品�
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>武蔵野市を含む全国対応の相談窓口。まず無料見積もりで料金の基準線を作りたいときに使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">武蔵野市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 武蔵野市で比較したい不用品回収サービス5選
 
@@ -67,12 +62,7 @@ keywords: ["武蔵野市 不用品回収 おすすめ", "武蔵野市 不用品�
 | 武蔵野市の粗大ごみ回収 | 費用を抑えやすい | 回収日が限定され、急ぎや大量処分には向きにくい |
 | 民間の不用品回収業者 | 即日対応・運び出し代行を頼みやすい | 自治体より費用が高くなる傾向がある |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>武蔵野市で条件をそろえて比較したい場合に、無料見積もりで料金目安と追加費用条件を確認しやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり条件を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -98,11 +88,6 @@ keywords: ["武蔵野市 不用品回収 おすすめ", "武蔵野市 不用品�
 吉祥寺周辺のように停車条件が変わりやすいエリアでは、現場情報を具体的に伝えるほど見積もり精度が上がります。
 まずは無料見積もりで基準価格を把握し、条件の合う回収プランを選ぶ流れが実務的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>まずは無料見積もりで武蔵野市の料金目安を把握し、複数社比較で条件に合う回収プランを選びましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

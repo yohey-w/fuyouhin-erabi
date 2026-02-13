@@ -28,12 +28,7 @@ keywords: ["中野区 不用品回収 おすすめ", "中野区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>中野区を含む全国対応。まず無料見積もりで相場と追加費用の発生条件を確認したい人に向く窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 中野区で比較したい不用品回収サービス5選
 
@@ -71,12 +66,7 @@ keywords: ["中野区 不用品回収 おすすめ", "中野区 不用品回収 
 時間に余裕があり点数が少ない場合は、自治体回収を組み合わせると全体費用を抑えやすくなります。
 中野区の粗大ごみ制度は更新されることがあるため、申し込み前に公式情報を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>中野区で条件をそろえて比較したい場合は、無料見積もりで相場と追加料金条件を先に把握する方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">中野区対応の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -98,11 +88,6 @@ keywords: ["中野区 不用品回収 おすすめ", "中野区 不用品回収 
 特に駅周辺と住宅地で作業難易度が変わりやすいため、停車位置・階段有無・希望時間を具体的に伝えることが重要です。
 まずは無料見積もりで基準価格を把握し、条件の合う業者を選ぶ流れが実務的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>まずは無料見積もりで中野区の料金目安を把握し、複数社比較で条件に合う回収プランを選びましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

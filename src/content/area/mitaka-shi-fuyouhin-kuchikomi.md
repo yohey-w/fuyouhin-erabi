@@ -46,12 +46,7 @@ keywords: ["三鷹市 不用品回収 口コミ", "三鷹市 不用品回収 業
 
 口コミを読むときは「満足」「不満」の理由まで確認することが重要です。安さ重視で選んだ場合と信頼性重視で選んだ場合で、満足度の傾向が異なるためです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>三鷹市で複数社の無料見積もりを取ることが、納得できる業者選びの第一歩です。相場確認と条件整理に活用できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 後悔しない業者選びの3つのコツ
 
@@ -73,12 +68,7 @@ keywords: ["三鷹市 不用品回収 口コミ", "三鷹市 不用品回収 業
 
 「今すぐ安い」よりも「信頼できるかどうか」を優先すれば、後々のトラブルを防ぎやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>不用品回収FireWorks</h3>
-<p>遺品整理・不用品回収に対応。作業完了で成果発生するため、過度な勧誘がない信頼できる窓口として評判です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに問い合わせる →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 

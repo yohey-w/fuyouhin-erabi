@@ -27,12 +27,7 @@ keywords: ["札幌市 不用品回収 おすすめ", "札幌市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>札幌市対応の回収相談をまとめて進めたい方向け。まず無料見積もりで費用の目安を把握しやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 札幌市で比較したい不用品回収サービス5選
 
@@ -56,12 +51,7 @@ keywords: ["札幌市 不用品回収 おすすめ", "札幌市 不用品回収 
 - 追加料金の条件を見積書で確認する: 基本料金に含まれる作業範囲を文面で確認すると、当日の認識差を減らせます。
 - 降雪時の対応条件を確認する: 当日対応の可否だけでなく、悪天候時の延期基準や追加費用の有無まで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>札幌市で複数社比較を進める際の起点にしやすい窓口です。無料見積もりで相場感を先に確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">札幌市対応の見積もりを比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 札幌市では自治体回収と業者回収、どちらを選ぶべき？
 
@@ -88,12 +78,7 @@ keywords: ["札幌市 不用品回収 おすすめ", "札幌市 不用品回収 
 ### Q4. 回収してもらえない品目はありますか？
 家電リサイクル法対象品や処理困難物は、業者ごとに対応が異なります。依頼前に対象品目を共有し、回収可否と費用条件を先に確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>札幌市で費用と対応スピードを比較したい場合、無料見積もりで条件をそろえる方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 札幌市で不用品回収を進める際は、料金の安さだけで決めず、追加料金条件と日程調整のしやすさまで比較することが失敗回避の近道です。まずは同条件で複数見積もりを取り、自治体回収と使い分けながら進めることを推奨します。
 

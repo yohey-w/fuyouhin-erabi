@@ -27,12 +27,7 @@ keywords: ["北区 不用品回収 おすすめ", "北区 不用品回収 安い
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>北区対応の回収業者をまとめて比較したい方向け。まず無料見積もりで料金の基準を把握できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 北区で比較したい不用品回収サービス5候補
 
@@ -53,12 +48,7 @@ keywords: ["北区 不用品回収 おすすめ", "北区 不用品回収 安い
 
 無許可業者へ依頼すると、不法投棄や不適切処理に巻き込まれるリスクがあります。金額だけで決めず、許可情報と見積書の整合性を先に確認するのが安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>北区で2〜3社を同条件で比べるなら、最初の見積もり窓口として使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">北区対応業者の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 自治体回収と民間回収、北区ではどう使い分ける？
 
@@ -89,12 +79,7 @@ keywords: ["北区 不用品回収 おすすめ", "北区 不用品回収 安い
 
 駅周辺の交通量と住宅街の道路幅の差が大きいため、作業車の停車位置を事前に確認することが重要です。赤羽台や滝野川など、地区によって搬出動線が異なるので建物情報を具体的に伝えると見積もり精度が上がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>北区で回収費用と作業条件を比較するなら、同条件の無料見積もりから始めると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

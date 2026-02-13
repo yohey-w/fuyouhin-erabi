@@ -28,12 +28,7 @@ keywords: ["小金井市 不用品回収 おすすめ", "小金井市 不用品�
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>小金井市を含む全国対応。まず無料見積もりで相場と追加費用の条件を確認したい人向けの比較窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 小金井市で比較したい不用品回収サービス5選
 
@@ -71,12 +66,7 @@ keywords: ["小金井市 不用品回収 おすすめ", "小金井市 不用品�
 時間に余裕があり点数が少ない場合は、自治体回収との併用が実務的です。
 小金井市の粗大ごみ制度は更新されることがあるため、申し込み前に公式情報を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>小金井市で条件をそろえて比較したい場合は、無料見積もりで料金目安と追加費用条件を先に把握する方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">小金井市対応の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -102,11 +92,6 @@ keywords: ["小金井市 不用品回収 おすすめ", "小金井市 不用品�
 駅周辺と住宅街で作業難易度が変わりやすいため、停車場所・階段有無・希望時間を具体的に共有することが重要です。
 まずは無料見積もりで基準価格を把握し、条件の合う業者を選ぶ流れが現実的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>まずは無料見積もりで小金井市の料金目安を把握し、複数社比較で条件に合う回収プランを選びましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

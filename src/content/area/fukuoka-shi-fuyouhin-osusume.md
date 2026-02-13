@@ -27,12 +27,7 @@ keywords: ["福岡市 不用品回収 おすすめ", "福岡市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>福岡市対応の見積もり窓口。まず相場をつかみたい場合に使いやすく、比較の起点を作りやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 福岡市で比較しておきたい不用品回収サービス5選
 
@@ -61,12 +56,7 @@ keywords: ["福岡市 不用品回収 おすすめ", "福岡市 不用品回収 
 
 時間に余裕がある少量処分は自治体回収、引越し前後で一気に片付けるなら民間業者、という切り分けが実務的です。申込前に福岡市公式情報と各社の回収条件を併せて確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>福岡市で急ぎ案件を含めて比較するなら、まず無料見積もりで相場と追加費用条件を確認しておくと判断が早くなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">福岡市対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -86,12 +76,7 @@ keywords: ["福岡市 不用品回収 おすすめ", "福岡市 不用品回収 
 
 「追加料金が発生する条件」「キャンセル料」「回収不可品目」の3点を事前に確認してください。電話口だけで確定せず、写真見積もりや現地見積もりで条件をそろえると金額差の理由が明確になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>複数社比較を前提に、福岡市での回収費用を早く把握したい方に向く窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -29,12 +29,7 @@ keywords: ["西宮市 不用品回収 おすすめ", "西宮市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>西宮市で相場を早く把握したいときに使いやすい無料見積もり窓口です。まず基準線を作ってから各社比較すると、判断が速くなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">西宮市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 西宮市対応の不用品回収サービス比較5選
 
@@ -67,12 +62,7 @@ keywords: ["西宮市 不用品回収 おすすめ", "西宮市 不用品回収 
 
 引越し前に一気に片付けたい場合は民間業者、少量で日程に余裕がある場合は自治体回収という使い分けが現実的です。迷ったときは両方の総額と回収日程を並べて判断すると失敗しにくくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>西宮市で急ぎの片付けが必要な場合に、対応可能業者の見積もりを取りやすい窓口です。追加料金の条件まで比較して依頼先を決めましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">西宮市対応業者の見積もりを取る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -98,11 +88,6 @@ keywords: ["西宮市 不用品回収 おすすめ", "西宮市 不用品回収 
 北部の坂道エリアと駅周辺の駐停車条件で総額が変わりやすいため、現場情報を具体的に伝えたうえで見積もりを取りましょう。
 まずは2〜3社の無料見積もりを並べ、自治体回収との費用・日程を比較して依頼先を決める流れを推奨します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>西宮市で不用品回収を比較したい方へ。無料見積もりで相場を把握してから依頼先を選ぶと、費用と対応速度のバランスを取りやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

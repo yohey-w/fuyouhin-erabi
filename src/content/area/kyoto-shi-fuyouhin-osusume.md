@@ -29,12 +29,7 @@ keywords: ["京都市 不用品回収 おすすめ", "京都市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>京都市対応の無料見積もり窓口。まず相場感をつかみ、比較の基準を作りたい方に向いています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">京都市の見積もりを無料で確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 京都市対応の不用品回収サービス比較5選
 
@@ -67,12 +62,7 @@ keywords: ["京都市 不用品回収 おすすめ", "京都市 不用品回収 
 
 少量で日程に余裕がある場合は自治体回収、退去期限が近い・大型家具が多い場合は民間業者の見積もり比較が現実的です。京都市の粗大ごみルールは更新されるため、申込前に公式情報を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>京都市で急ぎの片付けを進めたい場合に、対応業者を比較しやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">京都市対応の回収見積もりを比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -88,12 +78,7 @@ keywords: ["京都市 不用品回収 おすすめ", "京都市 不用品回収 
 ### Q4. 京都市で地域特有の注意点はありますか？
 中京区・東山区などでは道路幅や時間帯の交通事情で作業時間が延びる場合があります。現地写真を共有して見積もり精度を上げると、当日の増額リスクを抑えやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>京都市で費用と日程をまとめて比較したい方へ。無料見積もりで相場を把握してから依頼先を決めると進めやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -28,12 +28,7 @@ keywords: ["葛飾区 不用品回収 おすすめ", "葛飾区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>葛飾区を含む全国対応。無料見積もりで費用の目安と追加料金条件を早めに確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 葛飾区でおすすめの不用品回収サービス比較5選
 
@@ -71,12 +66,7 @@ keywords: ["葛飾区 不用品回収 おすすめ", "葛飾区 不用品回収 
 退去日が近い、大型家具が多い、運び出しが難しい場合は業者利用が向いています。
 時間に余裕があり点数が少ない場合は、自治体回収を組み合わせると総コストを抑えやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>葛飾区で複数社比較を進めるなら、先に無料見積もりで相場と追加費用条件を確認しておくと判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">葛飾区対応の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 

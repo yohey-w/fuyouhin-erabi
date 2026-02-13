@@ -29,12 +29,7 @@ keywords: ["三鷹市 不用品回収 おすすめ", "三鷹市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>三鷹市を含む全国対応。無料見積もりで費用の目安と追加料金条件を整理しやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 三鷹市で比較したい不用品回収サービス5選は？
 
@@ -72,12 +67,7 @@ keywords: ["三鷹市 不用品回収 おすすめ", "三鷹市 不用品回収 
 急ぎで片付けたい場合や大型家具が多い場合は業者利用が向いています。
 時間に余裕があり点数が少ない場合は、自治体回収を組み合わせると総コストを抑えやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>三鷹市で複数社比較を進めるなら、まず無料見積もりで相場と追加料金条件を可視化しておくと判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">三鷹市対応の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 

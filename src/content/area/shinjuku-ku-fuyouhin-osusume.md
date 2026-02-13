@@ -29,12 +29,7 @@ keywords: ["新宿区 不用品回収 おすすめ", "新宿区 不用品回収 
 
 実際に問い合わせると、基本料金は近くても「階段3階以上」「深夜早朝」「家電リサイクル品の別処理」で差が出るケースが多いです。見積もり依頼時は、処分品の写真と建物条件を先に共有しておくと、当日の追加請求リスクを下げられます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>新宿区対応の業者を比較したいときに使いやすい窓口。まず無料見積もりで相場の基準線を作ってから各社比較すると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新宿区で業者選びに失敗しない3つの確認点
 
@@ -51,12 +46,7 @@ keywords: ["新宿区 不用品回収 おすすめ", "新宿区 不用品回収 
 
 新宿区は中野区や渋谷区と比べても、駅近エリアでの搬出制約が出やすい地域です。急ぎ案件ほど、価格だけでなく「作業条件の明確さ」で比較するほうが結果的にコストを抑えやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>複数業者の条件比較を一度に進めたい方向け。新宿区の搬出条件を伝えて見積もりを取り、追加料金の有無をそろえて比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">新宿区対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 自治体回収と民間業者の使い分け
 
@@ -69,12 +59,7 @@ keywords: ["新宿区 不用品回収 おすすめ", "新宿区 不用品回収 
 
 例えば、引越しで大型家具だけ急ぎ処分したい場合は民間業者、時間に余裕がある衣類ケースや小型棚は自治体回収に分けると総額を抑えやすくなります。区の粗大ごみルールは更新されることがあるため、申込前に公式情報を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>退去日が近い、または一度で片付けたいときの比較窓口。新宿区内の対応可否と料金目安を早めに把握できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 

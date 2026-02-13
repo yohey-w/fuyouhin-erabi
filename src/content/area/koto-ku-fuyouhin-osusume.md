@@ -29,12 +29,7 @@ keywords: ["江東区 不用品回収 おすすめ", "江東区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>江東区でまず相場感をつかみたい人向け。無料見積もりで費用の基準線を作り、比較しやすくできます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 江東区で比較しやすい不用品回収サービス5選
 
@@ -71,12 +66,7 @@ keywords: ["江東区 不用品回収 おすすめ", "江東区 不用品回収 
 退去日が近い、または一度に大量処分したい場合は民間業者の優位性が高いです。
 一方で、時間に余裕があり点数が少ない場合は自治体回収を組み合わせると費用を抑えやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>江東区で相見積もりを急ぎたい場合の窓口として使いやすいサービスです。条件をそろえて比較すると、金額の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">江東区対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 ## よくある質問（FAQ）
 
 ### Q1. 江東区で不用品回収を依頼するなら、いつ頃から準備すべきですか？
@@ -99,12 +89,7 @@ keywords: ["江東区 不用品回収 おすすめ", "江東区 不用品回収 
 家電リサイクル法対象品や危険物などは、事業者ごとに対応が分かれます。
 依頼前に品目をまとめて伝え、回収可否と追加費用の有無を確認するのが安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>江東区で不用品回収をスムーズに比較したい場合は、無料見積もりで相場と条件を先に確認する進め方が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 江東区で不用品回収を進める際は、価格だけでなく、搬出条件と追加料金条件をそろえて比較することが重要です。

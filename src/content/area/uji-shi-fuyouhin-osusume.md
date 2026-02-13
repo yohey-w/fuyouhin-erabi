@@ -27,12 +27,7 @@ keywords: ["宇治市 不用品回収 おすすめ", "宇治市 不用品回収 
 
 ※料金は物量・品目・建物条件により変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>宇治市対応の見積もり窓口。無料で相場の基準線を作り、複数社比較を進めやすくできます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 宇治市で比較しやすい不用品回収サービス5選
 
@@ -61,12 +56,7 @@ keywords: ["宇治市 不用品回収 おすすめ", "宇治市 不用品回収 
 | 宇治市の粗大ごみ回収 | 費用を抑えやすい | 申込制で回収日が限られ、急ぎや大量処分には不向き |
 | 民間の不用品回収業者 | 即日対応や運び出し代行に対応しやすい | 自治体回収より費用が高くなる傾向 |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>宇治市で回収条件を比較する際に使いやすい窓口です。同条件で見積もりを揃えるほど、料金の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">宇治市対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -82,12 +72,7 @@ keywords: ["宇治市 不用品回収 おすすめ", "宇治市 不用品回収 
 ### Q4. 回収できない品目はありますか？
 家電リサイクル法対象品や危険物などは、事業者ごとに対応が分かれます。依頼前に品目を共有し、回収可否と追加費用の有無を確認するのが安全です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>宇治市で不用品回収を比較するなら、まず無料見積もりで相場と条件を把握する進め方が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 宇治市で不用品回収を進める際は、価格だけでなく、搬出条件と追加料金条件を揃えて比較することが重要です。

@@ -27,12 +27,7 @@ keywords: ["港区 不用品回収 おすすめ", "港区 不用品回収 安い
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>港区を含む全国対応の相談窓口。まず無料見積もりを取り、相場感をつかみたい場合に使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 港区で失敗しない比較のコツとおすすめの進め方
 
@@ -46,12 +41,7 @@ keywords: ["港区 不用品回収 おすすめ", "港区 不用品回収 安い
 
 港区は品川区・中央区と比べてもオフィス移転案件が多く、月末は予約が埋まりやすい傾向があります。退去日が決まっているなら、1〜2週間前に仮予約しておくと調整しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>複数社の費用を早めに比較したい方向け。作業条件をそろえて見積もりを取ると、料金の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">港区対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 港区の自治体回収と業者回収は何が違う？
 
@@ -82,11 +72,6 @@ keywords: ["港区 不用品回収 おすすめ", "港区 不用品回収 安い
 
 港区で不用品回収を成功させるポイントは、相場把握だけでなく、追加料金条件と搬出条件を同時に比較することです。まずは無料見積もりで複数社の条件を並べ、納得できる内容で依頼先を決めることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>港区で不用品回収の費用と日程をまとめて確認したい方は、無料見積もりから比較を始めると判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

@@ -31,12 +31,7 @@ keywords: ["川崎市 不用品回収 おすすめ", "川崎市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>川崎市対応の無料見積もり窓口。まず相場を把握して、他社見積もりの妥当性を判断したいときに使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">川崎市の回収費用を無料で確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川崎市で比較したい不用品回収サービス5選
 
@@ -73,12 +68,7 @@ keywords: ["川崎市 不用品回収 おすすめ", "川崎市 不用品回収 
 無許可業者へ依頼すると、不法投棄や想定外請求につながるリスクがあります。
 安さだけで判断せず、会社情報や作業条件の説明が明確な業者を優先してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>川崎市で複数社比較を進めたい方は、無料見積もりで費用と条件を可視化してから依頼先を決める方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">川崎市対応の見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -98,12 +88,7 @@ keywords: ["川崎市 不用品回収 おすすめ", "川崎市 不用品回収 
 少量で急ぎでなければ自治体回収、退去直前や大量処分なら民間業者が向いています。
 迷う場合は先に民間見積もりで総額を確認し、自治体回収と費用・日程の両面で比較するのが実務的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>川崎市で急ぎの処分や複数社比較を進めるなら、まず無料見積もりで相場と追加料金条件を整理する方法が有効です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

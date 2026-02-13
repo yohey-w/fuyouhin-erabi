@@ -29,12 +29,7 @@ keywords: ["横浜市 不用品回収 おすすめ", "横浜市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>横浜市対応の無料見積もり窓口。最初の相場確認に使うと、他社見積もりの妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">横浜市の回収費用を無料で確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市対応の不用品回収サービス比較5選
 
@@ -67,12 +62,7 @@ keywords: ["横浜市 不用品回収 おすすめ", "横浜市 不用品回収 
 
 少量で日程に余裕があるなら自治体回収、退去前で時間がない・点数が多いなら民間業者、という使い分けが現実的です。まずは民間2〜3社の見積もりを取得し、自治体回収と総額で比較すると判断しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>横浜市で即日相談が必要なときに使いやすい窓口。見積もり条件をそろえて比較し、追加料金の有無を先に確認しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">横浜市で対応可能な業者を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -94,11 +84,6 @@ keywords: ["横浜市 不用品回収 おすすめ", "横浜市 不用品回収 
 特に港湾部や都心部では時間帯によって作業可否が変わるため、候補日時を複数提示して見積もりを取りましょう。
 まず2〜3社の無料見積もりで基準線を作り、自治体回収と総額・日程の両面で比較する方法をおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>横浜市で不用品回収を比較したい方へ。無料見積もりで費用相場を把握してから依頼先を決めると、納得感のある選択につながります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

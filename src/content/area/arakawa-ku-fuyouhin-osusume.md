@@ -28,12 +28,7 @@ keywords: ["荒川区 不用品回収 おすすめ", "荒川区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>荒川区を含む全国対応の相談窓口。まず無料見積もりで料金目安と追加費用条件を確認したいときに使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 荒川区で比較したい不用品回収サービス5選
 
@@ -70,12 +65,7 @@ keywords: ["荒川区 不用品回収 おすすめ", "荒川区 不用品回収 
 急ぎの引越しや一括処分では業者活用が有力です。時間に余裕があり点数が少ない場合は、自治体回収との併用で費用を抑えやすくなります。
 荒川区の粗大ごみ制度は更新されることがあるため、申し込み前に公式情報を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>荒川区で条件をそろえて比較するなら、無料見積もりで相場と追加料金条件を先に把握する方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">荒川区対応の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -97,11 +87,6 @@ keywords: ["荒川区 不用品回収 おすすめ", "荒川区 不用品回収 
 町屋・日暮里・南千住などエリアで作業条件が変わりやすいため、停車位置や階段有無、希望時間を具体的に共有するほど見積もり精度が上がります。
 まずは無料見積もりで基準価格を把握し、条件に合う業者を選ぶ進め方が現実的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>無料見積もりで荒川区の料金目安を把握し、複数社比較で条件に合う回収プランを選びましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

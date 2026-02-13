@@ -29,12 +29,7 @@ keywords: ["静岡市 不用品回収 おすすめ", "静岡市 不用品回収 
 
 同じ軽トラック回収でも、階段作業の有無やスタッフ増員の要否で金額は動きます。実際に問い合わせると、基本料金が近くても最終請求額に差が出ることがあるため、見積書の内訳確認が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>静岡市対応の業者をまとめて比較しやすい窓口。まず無料見積もりで相場感を確認したい場合に使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 静岡市で比較したい不用品回収サービス5選
 
@@ -70,12 +65,7 @@ keywords: ["静岡市 不用品回収 おすすめ", "静岡市 不用品回収 
 
 台風接近時期は交通事情で回収時間が変わることがあるため、急ぎ案件ほど予備日を含めた相談が有効です。自治体回収と民間回収を併用し、費用と期限のバランスを取る進め方が現実的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>静岡市で複数社比較を前提に進めるなら、まず無料見積もりで回収条件をそろえて確認する方法が効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">静岡市対応の見積もりを比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -99,11 +89,6 @@ keywords: ["静岡市 不用品回収 おすすめ", "静岡市 不用品回収 
 
 静岡市で不用品回収を進める際は、料金の安さだけで決めず、追加料金条件と日程調整のしやすさまで比較することが重要です。まずは複数社の見積もりを同条件で取り、自治体回収との併用も視野に入れて判断すると失敗しにくくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>静岡市で費用と日程をまとめて比較したい場合は、無料見積もりで条件をそろえて確認するのが近道です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

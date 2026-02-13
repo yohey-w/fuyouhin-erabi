@@ -27,12 +27,7 @@ keywords: ["文京区 不用品回収 おすすめ", "文京区 不用品回収 
 
 ※上記は目安です。家電の種類、階段作業の有無、駐車位置で変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>文京区対応の業者をまとめて比較したい方向け。まず無料見積もりで相場の基準をつくれます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 文京区で比較したい不用品回収サービス5選
 
@@ -61,12 +56,7 @@ keywords: ["文京区 不用品回収 おすすめ", "文京区 不用品回収 
 
 豊島区や新宿区と比べると、文京区は住宅地と教育機関が近接しており、時間帯による搬出難易度の差が出やすい傾向です。実際に問い合わせると、午前枠より午後枠のほうが車両手配しやすいケースもあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>文京区で複数社をまとめて比べるなら、先に無料見積もりで料金帯を把握してから交渉する流れが効率的です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">文京区対応業者の料金を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -86,12 +76,7 @@ keywords: ["文京区 不用品回収 おすすめ", "文京区 不用品回収 
 
 坂道や細い生活道路が多いエリアでは、作業車の停車位置が遠くなり、搬出工数が増えることがあります。本郷・千石・根津など地区によって条件が異なるため、住所と建物状況を具体的に伝えることが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>費用を抑えながら進めるには、同条件での複数見積もりが近道です。文京区対応の候補をまとめて確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

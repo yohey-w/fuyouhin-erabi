@@ -27,12 +27,7 @@ keywords: ["立川市 不用品回収 おすすめ", "立川市 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>立川市を含む全国対応の相談窓口。まず相場を把握したい段階で、無料見積もりを取りやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">立川市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 立川市で比較したい不用品回収サービス5選
 
@@ -65,12 +60,7 @@ keywords: ["立川市 不用品回収 おすすめ", "立川市 不用品回収 
 
 退去期限が近い場合や、短時間でまとめて処分したい場合は業者の優位性が高いです。時間に余裕があり点数が少ない場合は、自治体回収を組み合わせる方法が向いています。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>立川市で急ぎの回収相談をしたい場合に、対応可否と見積もり条件を早めに確認しやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり条件を確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -90,12 +80,7 @@ keywords: ["立川市 不用品回収 おすすめ", "立川市 不用品回収 
 
 家電リサイクル法対象品や処理困難物は、業者ごとに対応条件が異なります。依頼前に品目一覧を共有し、回収可否と追加費用を確認してから申し込むとスムーズです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>立川市で複数社比較を進めるなら、最初に無料見積もりで費用感と作業条件をそろえる方法が取りやすいです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

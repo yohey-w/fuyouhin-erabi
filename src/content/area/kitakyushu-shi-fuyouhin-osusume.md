@@ -29,12 +29,7 @@ keywords: ["北九州市 不用品回収 おすすめ", "北九州市 不用品�
 
 ※料金は物量・品目・建物条件で変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>北九州市で相場感を早くつかみたい方向けの無料見積もり窓口です。比較の基準を先に作ると、各社の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">北九州市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 北九州市対応の不用品回収サービス比較5選
 
@@ -67,12 +62,7 @@ keywords: ["北九州市 不用品回収 おすすめ", "北九州市 不用品�
 
 退去期限が近い・点数が多い場合は民間業者、少量で時間に余裕がある場合は自治体回収という使い分けが現実的です。まず民間2〜3社の見積もりを取り、自治体回収と総額・日程を比較すると判断しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>北九州市で急ぎの片付けを進めたい場合に、対応可能業者の見積もりを取りやすい窓口です。条件をそろえて比較し、追加料金の有無を確認しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">北九州市対応業者の見積もりを取る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -98,11 +88,6 @@ keywords: ["北九州市 不用品回収 おすすめ", "北九州市 不用品�
 区ごとの道路事情や建物条件で作業時間が変わりやすいため、最初の見積もり段階で現場情報を具体化しておくと判断が安定します。
 まずは2〜3社の無料見積もりを取り、自治体回収との費用・日程を比較して依頼先を選びましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>北九州市で不用品回収を比較したい方へ。無料見積もりで相場を確認してから依頼先を決めると、費用と対応速度のバランスを取りやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

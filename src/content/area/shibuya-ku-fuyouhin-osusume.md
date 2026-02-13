@@ -27,12 +27,7 @@ keywords: ["渋谷区 不用品回収 おすすめ", "渋谷区 不用品回収 
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>渋谷区を含む全国対応の窓口。まずは無料見積もりで費用の基準線を作りたい場合に使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 渋谷区で比較したい不用品回収サービス5選
 
@@ -65,12 +60,7 @@ keywords: ["渋谷区 不用品回収 おすすめ", "渋谷区 不用品回収 
 
 退去期限が近い場合や、1日で片付けたい場合は業者の優位性が高いです。時間に余裕があり、点数が少ないなら自治体回収を組み合わせる方法が現実的です。渋谷区の粗大ごみルールは更新されるため、申込前に区の公式情報を確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>複数社比較を前提に、渋谷区での回収相場を早く把握したい人向け。作業条件をそろえて見積もりを取ると、料金の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">渋谷区対応の回収見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -94,11 +84,6 @@ keywords: ["渋谷区 不用品回収 おすすめ", "渋谷区 不用品回収 
 
 渋谷区で不用品回収を依頼する際は、相場確認より先に「搬出条件」と「追加料金条件」をそろえて比較することが、結果的に費用圧縮につながります。特に駅近エリアは駐停車条件で見積もりが変わりやすいため、現場情報を具体的に伝えることが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>渋谷区での不用品回収を急ぎで比較したい場合は、まず無料見積もりで相場と条件を確認するのが近道です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

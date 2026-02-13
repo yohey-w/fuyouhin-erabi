@@ -34,12 +34,7 @@ keywords: ["国分寺市 不用品回収 おすすめ", "国分寺市 不用品�
 
 ※料金は物量・品目・建物条件で変動します。最新情報は各社公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>国分寺市対応の業者を比較しやすく、最初の相場確認に使いやすい相談窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">国分寺市の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 国分寺市で比較したい不用品回収サービス5選
 
@@ -71,12 +66,7 @@ keywords: ["国分寺市 不用品回収 おすすめ", "国分寺市 不用品�
 
 退去日が迫っている、または家具家電を一気に処分したい場合は民間業者が向いています。点数が少なく日程に余裕があるなら、自治体回収を軸にした方が総費用を抑えやすいです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>急ぎで片付けたい場合でも、先に見積もり条件をそろえることで費用の妥当性を判断しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">回収条件と見積もりをまとめて確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -92,12 +82,7 @@ keywords: ["国分寺市 不用品回収 おすすめ", "国分寺市 不用品�
 ### Q4. 国分寺市の粗大ごみ回収と業者回収はどちらが安いですか？
 費用だけ見れば自治体回収の方が安いことが多いです。一方で、日程固定や運び出し負担があるため、時間を優先するなら業者回収の方が実務的なケースがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>まずは無料見積もりで国分寺市の料金目安を把握し、条件の合う回収プランを選びましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 
