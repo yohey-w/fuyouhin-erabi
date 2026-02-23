@@ -31,9 +31,9 @@ X上では「引越し後に旧居の片付けが終わらなくて大家に怒�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>引越し後の旧居の残置不用品を迅速に回収。退去期限が迫っている場合もご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>退去日まで時間があるうちに、旧居の不用品の費用感だけでも確認しておきましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -130,9 +130,9 @@ X上では「引越し後に旧居の片付けが終わらなくて大家に怒�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 無料見積もりで複数社を比較</h3>
-<p>退去日が迫っている場合の緊急回収も対応。まず無料見積もりでスケジュールを確認しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>複数社を比較することで最安値がわかります。退去日が迫っている場合も早めの連絡が吉。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -148,7 +148,7 @@ X上では「引越し後に旧居の片付けが終わらなくて大家に怒�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>退去日が迫っている場合の緊急回収に対応。まず電話でご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐFireWorksに申し込む</h3>
+<p>退去日が迫るほど日程が取りにくくなります。今すぐ連絡して日程を確保してください。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

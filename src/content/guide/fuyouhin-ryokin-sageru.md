@@ -31,9 +31,9 @@ X上では「複数社に見積もりを取ったあとで交渉したら2万円
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>相見積もり歓迎・追加費用なし。交渉の土台となる明朗な見積もりをまず取り寄せましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>費用がわからない段階でも相談OK。交渉の「根拠」となる見積もりを最初に取り寄せましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -120,9 +120,9 @@ X上では「複数社に見積もりを取ったあとで交渉したら2万円
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 無料見積もりで交渉の土台を作る</h3>
-<p>相見積もり歓迎。追加料金なしの明確な料金体系で他社との比較ができます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>複数社を比較することで交渉の根拠が生まれ、最安値に近づけます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -173,7 +173,7 @@ A. 次の業者の見積もりを取ってください。1社の断りで終わ�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>相見積もり歓迎・追加費用なし。交渉の土台となる明朗な見積もりをまず取り寄せましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐFireWorksに申し込む</h3>
+<p>早めに見積もりを取ることで、交渉の余地が広がります。まず一歩、申し込みを。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

@@ -31,9 +31,9 @@ X上では「産廃扱いと知らずに一般業者に頼んでトラブルに�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>店舗・オフィスの不用品（テーブル・椅子・什器等の一廃部分）を一括回収。まず無料見積もりをどうぞ。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>費用がわからない段階でも相談OK。閉店片付けの費用感だけ先に確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -64,9 +64,9 @@ X上では「産廃扱いと知らずに一般業者に頼んでトラブルに�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 無料見積もりで複数社を比較</h3>
-<p>閉店・廃業後のテーブル・椅子・什器（一廃部分）を一括回収。まず無料見積もりをどうぞ。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>複数社を比較することで最安値がわかります。閉店後の家具・什器（一廃部分）を一括処分。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -178,7 +178,7 @@ A. 可能ですが、各業者の手配を同時並行で進める必要があ�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>閉店・廃業後の店舗内家具・什器（一廃部分）を一括回収。まず無料見積もりをご依頼ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐFireWorksに申し込む</h3>
+<p>閉店スケジュールが決まったら早めに連絡することで日程確保が楽になります。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

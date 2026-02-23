@@ -31,9 +31,9 @@ X上には「親が施設に入って実家を片付けたが、生きている�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>実家の家財処分・大量不用品の回収に対応。まず無料見積もりからお気軽にご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>費用がわからない段階でも相談OK。実家の家財処分の費用感だけ先に確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -50,9 +50,9 @@ X上には「親が施設に入って実家を片付けたが、生きている�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 無料見積もりで複数社を比較</h3>
-<p>実家の家財処分・段階的な片付けにも対応。まず無料見積もりでご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>複数社を比較することで最安値がわかります。段階的な片付けにも対応可能です。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ### 施設入居後の片付けは本人の同意が前提
@@ -160,7 +160,7 @@ A. 本人に確認できる段階であれば、処分候補品の写真を見�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>実家の大量家財の処分・段階的な片付けに対応。感情的な難しさも含めてご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐFireWorksに申し込む</h3>
+<p>施設費用の捻出で急ぎの場合も、早めに連絡することで日程確保が楽になります。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

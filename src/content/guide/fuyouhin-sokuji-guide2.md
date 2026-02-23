@@ -31,9 +31,9 @@ X上では「即日対応可の業者でも連絡が遅いと翌日になった�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>急ぎの不用品回収に対応。まずお電話でスケジュールをご確認ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>費用がわからない段階でも相談OK。即日対応の費用感だけ先に確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -60,9 +60,9 @@ X上では「即日対応可の業者でも連絡が遅いと翌日になった�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 無料見積もりで複数社を比較</h3>
-<p>急ぎの不用品回収に対応。まず無料見積もりで対応可能な日程を確認してください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>複数社を比較することで最安値がわかります。急ぎでも複数社への連絡が費用を抑えます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -145,7 +145,7 @@ X上では「即日対応可の業者でも連絡が遅いと翌日になった�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>急ぎの不用品回収に対応。対応可能な日程はお電話でご確認ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐFireWorksに申し込む</h3>
+<p>連絡が早ければ早いほど当日対応できる可能性が高まります。今すぐ申し込みを。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>
