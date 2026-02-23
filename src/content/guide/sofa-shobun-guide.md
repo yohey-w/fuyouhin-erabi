@@ -45,6 +45,13 @@ X上では「大きいソファの処分で困った、業者に即日来ても�
 | リサイクルショップ・買取 | 0円〜数千円プラス | 2〜5日 | 中 | 状態良好・費用を減らしたい |
 | フリマアプリ（ジモティー等） | 0円〜数千円プラス | 1〜4週間 | 高 | 時間に余裕あり・工数をかけられる |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>ソファ・大型家具の急ぎ処分もお任せ。まず無料見積もりで費用を確認してください。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ---
 
 ## 方法ごとの詳細

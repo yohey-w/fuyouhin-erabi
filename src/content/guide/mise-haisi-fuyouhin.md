@@ -62,6 +62,13 @@ X上では「産廃扱いと知らずに一般業者に頼んでトラブルに�
 - 厨房機器・電気機械・ガス機器 → 産業廃棄物（産廃業者または買取）
 - 廃油・廃液 → 産業廃棄物（専門業者必須）
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>閉店・廃業後のテーブル・椅子・什器（一廃部分）を一括回収。まず無料見積もりをどうぞ。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ---
 
 ## 厨房機器の買取可否の目安

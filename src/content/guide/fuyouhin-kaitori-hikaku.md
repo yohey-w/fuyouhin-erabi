@@ -51,6 +51,13 @@ X上には「全部回収してもらったが後で買取できたものがあ�
 | 大量対応 | ○ | △（全品買取できるとは限らない） |
 | 向いている状況 | 大量・急ぎ・壊れたものがある | 状態の良い品目だけ処分したい |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>買取後に残った不用品の回収もおまかせ。大量でも一括対応します。まず無料見積もりを。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ---
 
 ## 品目別「売れるか・回収に出すか」基準表

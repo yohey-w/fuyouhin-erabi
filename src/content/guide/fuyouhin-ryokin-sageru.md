@@ -64,6 +64,13 @@ X上では「複数社に見積もりを取ったら3倍の値段差があった
 | ベッド（マットレス込み） | 5,000〜12,000円 |
 | 自転車 | 2,000〜5,000円 |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>明朗料金・追加費用なし。量や品目を伝えるだけで無料で費用が確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ---
 
 ## 費用を安くする5つの方法

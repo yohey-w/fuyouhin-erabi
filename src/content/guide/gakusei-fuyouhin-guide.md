@@ -45,6 +45,13 @@ X上では「大学卒業時の引越しで家電全部を処分したら想定�
 | ③ フリマ・買取 | 収入（品目による） | 高 | 1〜4週間 | 時間がある・状態良好の品がある |
 | ④ 後輩・知人への譲渡 | 無料 | 低〜中 | 数日〜 | 知り合いの一人暮らし開始に合わせられる |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>卒業・引越し後の残り不用品を一括回収。退去日が迫っている場合もまず無料見積もりを。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ---
 
 ## 方法ごとの詳細

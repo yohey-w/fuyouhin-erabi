@@ -48,6 +48,13 @@ X上には「親が施設に入って実家を片付けたが、生きている�
 | 時間的余裕 | 比較的あることが多い | 葬儀後の慌ただしい中で進める場合も |
 | 業者の対応タイプ | 一般の不用品回収業者で対応可能 | 遺品整理業者が適切なケースあり |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>実家の家財処分・段階的な片付けにも対応。まず無料見積もりでご相談ください。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ### 施設入居後の片付けは本人の同意が前提
 
 施設入居中でも、財産の管理権は本人にあります。本人の同意を得ずに荷物を処分することは、法律的に問題になる可能性があります。

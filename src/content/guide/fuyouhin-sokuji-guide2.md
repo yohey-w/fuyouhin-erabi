@@ -58,6 +58,13 @@ X上では「即日対応可の業者でも連絡が遅いと翌日になった�
 | 午後1時〜3時 | 低（20〜30%） | 翌日 |
 | 午後3時以降 | 非常に低 | 翌日以降 |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>急ぎの不用品回収に対応。まず無料見積もりで対応可能な日程を確認してください。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ---
 
 ## 連絡から回収完了までのタイムライン

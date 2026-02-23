@@ -46,6 +46,13 @@ X上では「冷蔵庫を処分するのにこんなにお金かかるとは思�
 | 不用品回収業者 | 3,000〜15,000円（搬出込み） | 低（連絡だけ） | 即日〜翌日 | 急ぎ・自分で動けない |
 | リサイクルショップ・買取 | 0円〜プラスになる場合あり | 中 | 数日 | 新しめの機種・状態が良い |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>冷蔵庫の搬出・処分を丸ごとお任せ。費用は状況次第なので、まず無料見積もりで確認を。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ---
 
 ## 家電リサイクル料金一覧（2026年版）

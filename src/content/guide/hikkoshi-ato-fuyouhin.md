@@ -128,6 +128,13 @@ X上では「引越し後に旧居の片付けが終わらなくて大家に怒�
 - 駐車場から搬出が遠い：+3,000〜5,000円
 - 家電リサイクル対象品：品目別に別途リサイクル料金
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>退去日が迫っている場合の緊急回収も対応。まず無料見積もりでスケジュールを確認しましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 ---
 
 ## まとめ

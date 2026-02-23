@@ -49,6 +49,13 @@ X上では「空き家の片付けは自分ではとても無理だった、業�
 | 3LDK | 25万〜50万円 | 長年の蓄積があると上限超えも |
 | 4LDK以上 | 40万〜100万円以上 | 二世帯・蔵あり等は別途見積 |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — 無料見積もりで複数社を比較</h3>
+<p>空き家・実家の大量家財もまるごと対応。まず無料見積もりで費用の目安を確認しましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+</div>
+
 **費用を大きく左右する要因：**
 - 家財の量（長年住んでいた家ほど多い）
 - 搬出の難易度（山間部・階段のみ等）
