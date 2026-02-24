@@ -31,9 +31,9 @@ X上では「遺品整理を頼もうとしたら不用品回収業者ばかり�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>遺品整理の残り品・大量の不用品もまとめて対応。無料見積もりで安心確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>遺品整理後の不用品処分、費用感がわからない段階でも気軽に相談できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -97,7 +97,7 @@ X上では「遺品整理を頼もうとしたら不用品回収業者ばかり�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>仕分けが終わった遺品の処分から、大量の家財回収まで対応。急ぎの場合もご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -147,5 +147,5 @@ A. 仕分けができていない状態で呼ぶと、大切な貴重品や思�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>遺品整理後の不用品回収・大量家財処分に対応。まずは無料見積もりでご確認ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

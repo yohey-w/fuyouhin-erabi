@@ -31,9 +31,9 @@ X上には「全部回収してもらったが後で買取できたものがあ�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>買取後に残った不用品の回収に対応。量が多くても一括でお任せください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>まずどのくらいの費用になるか、相談ベースで確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -55,7 +55,7 @@ X上には「全部回収してもらったが後で買取できたものがあ�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>買取後に残った不用品の回収もおまかせ。大量でも一括対応します。まず無料見積もりを。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -152,5 +152,5 @@ A. 状態の良いブランド品や人気家電は、フリマアプリの方�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>買取後に残った大量の不用品・家具家電の回収に対応。まとめてお任せください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

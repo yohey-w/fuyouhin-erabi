@@ -9,6 +9,8 @@ keywords: ["エアコン 処分 費用", "エアコン 取り外し 廃棄", "�
 
 ※本記事にはアフィリエイト広告（PR）が含まれます。
 
+田中さん（42歳）は、引越しを前に10年以上使ったエアコンを2台処分しようとした。業者に問い合わせると「取り外し工事費が別途8,000円〜かかります」と言われ、リサイクル料金しか想定していなかった分、1台あたり1万円以上になると知ってびっくりした。自分で外せるのか、複数の業者を比べた方がいいのか——このページでその疑問に答えます。
+
 ## 「取り外し費用なんて知らなかった」— エアコン処分で後悔しないために
 
 「エアコンを2台処分したい。取り外し費用が心配で、見積もりをどこに頼めばいいか分からない」— そんな状況ではないだろうか。リサイクル料金が1台2,000円前後だと思っていたのに、業者に連絡すると「取り外し工事費が別途8,000円〜かかります」と言われ、合計で1台あたり1万円以上になることがある。
@@ -74,7 +76,7 @@ X（旧Twitter）では「エアコン処分がこんなに高いとは思わな
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>エアコンの取り外し工事から廃棄まで一括対応。複数台まとめて依頼すると割安になります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 - **メリット**：取り外し〜搬出〜廃棄まで全て任せられる。即日対応可能な業者も多い
@@ -111,7 +113,7 @@ X（旧Twitter）では「エアコン処分がこんなに高いとは思わな
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>無料見積もりで費用を事前確認。追加料金なしの明確な料金体系で安心して依頼できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -146,7 +148,7 @@ X（旧Twitter）では「エアコン処分がこんなに高いとは思わな
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>エアコン処分の費用が知りたいなら、まず無料見積もりを確認。取り外し込みの総額で比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>
 
 ---
@@ -163,5 +165,5 @@ X（旧Twitter）では「エアコン処分がこんなに高いとは思わな
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>エアコン2台以上の処分なら特にお得。取り外しから廃棄まで一括対応で手間なし。今すぐ無料見積もりを確認。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

@@ -31,9 +31,9 @@ X上でゴミ屋敷関連の投稿を見ていると、「業者に頼んだら�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>ゴミ屋敷・大量回収も対応。プライバシー配慮で対応します。まず無料見積もりをどうぞ。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>恥ずかしくても大丈夫。費用感がわからない段階でも気軽にご相談できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -82,7 +82,7 @@ X上でゴミ屋敷関連の投稿を見ていると、「業者に頼んだら�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>ゴミ屋敷清掃の費用は状況によって大きく変わります。まず無料見積もりで実際の金額を把握しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -157,5 +157,5 @@ A. 鍵を預けての立ち会い不要対応が可能な業者もあります�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>ゴミ屋敷・大量不用品の回収に対応。プライバシーへの配慮も可能です。まず無料見積もりから。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

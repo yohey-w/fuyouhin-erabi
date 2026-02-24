@@ -53,9 +53,9 @@ X（旧Twitter）には「亡くなった夫の荷物を処分する決心がつ
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>故人の荷物の取り扱いに配慮した対応。守秘義務を守り、丁寧に作業いたします。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず費用の目安を確認</h3>
+<p>配偶者の荷物処分にかかる費用が気になりますよね。まず料金感だけでも確認しておくと安心です。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -75,7 +75,7 @@ X（旧Twitter）には「亡くなった夫の荷物を処分する決心がつ
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>仕分けが終わったら搬出だけ依頼できます。配偶者の荷物処分もFireWorksが丁寧にサポートします。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -120,5 +120,5 @@ X（旧Twitter）には「亡くなった夫の荷物を処分する決心がつ
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>大切な方の荷物を丁寧に取り扱います。まず見積もりだけでも、お気軽にご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>
