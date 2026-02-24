@@ -160,10 +160,3 @@ X（旧Twitter）では「エアコン処分がこんなに高いとは思わな
 急がない場合は、取り外し業者を別途手配して指定引取場所に持ち込むのが最安値。手間をかけたくない場合は、不用品回収業者への一括依頼が便利だ。
 
 2台以上ある場合は特に、まとめて依頼することで費用を抑えられる可能性が高い。
-
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>エアコン2台以上の処分なら特にお得。取り外しから廃棄まで一括対応で手間なし。今すぐ無料見積もりを確認。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
-</div>
