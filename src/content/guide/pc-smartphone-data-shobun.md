@@ -123,13 +123,6 @@ PCリサイクルマーク（グリーンの矢印マーク）が貼付されて
 | データ削除方法が分からない | 専門業者に依頼 | 費用1,000〜5,000円 |
 | 動作しない/壊れている | 廃棄業者/PCリサイクル | 無料回収あり |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>FireWorks — 無料見積もりで複数社を比較</h3>
-<p>データ消去済みのPC・スマホをまとめて処分できます。他の家電との同時回収も対応。費用を事前確認。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
-</div>
-
 ---
 
 ## まとめ：PC・スマホ処分は「データ消去が最優先」
