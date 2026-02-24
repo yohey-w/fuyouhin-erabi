@@ -175,13 +175,6 @@ A. 業者によります。農機具・廃タイヤ・廃材等は産業廃棄�
 | 荷物が多い/時間がない | 不用品回収業者 | 2〜5万円 |
 | 実家など遠方の空き家 | 遺品整理兼不用品回収業者 | 5万円〜 |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>FireWorks — 無料見積もりで複数社を比較</h3>
-<p>空き家・実家の大量家財もまるごと対応。まず無料見積もりで費用の目安を確認しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
-</div>
-
 ---
 
 ## まとめ
