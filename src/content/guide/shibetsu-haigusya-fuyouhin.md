@@ -118,13 +118,6 @@ X（旧Twitter）には「亡くなった夫の荷物を処分する決心がつ
 | 思い出の品が多い/仕分けが辛い | フルサポートの遺品整理業者 | 遺族の代わりに全対応 |
 | 費用を抑えたい | 不用品回収+自力の組み合わせ | 相見積もり必須 |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>FireWorks — 無料見積もりで複数社を比較</h3>
-<p>仕分けが終わったら搬出だけ依頼できます。配偶者の荷物処分もFireWorksが丁寧にサポートします。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
-</div>
-
 ---
 
 ## まとめ：配偶者の荷物処分は「急がなくていい、でも一人で抱え込まなくていい」
