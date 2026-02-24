@@ -58,7 +58,7 @@ X（旧Twitter）には「親の死後に実家の片付けをした体験談」
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>実家のまるごと片付けに対応。仕分けが終わってから依頼するだけで大丈夫です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ### 第2段階（1〜2週間）：仕分けと処分方法の決定
@@ -97,6 +97,13 @@ X（旧Twitter）には「親の死後に実家の片付けをした体験談」
 | 3LDK | 150,000〜300,000円 |
 | 4LDK以上 | 250,000〜500,000円 |
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — まとめて無料見積もり</h3>
+<p>複数業者の料金をまとめて比較。無料で相場確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
+</div>
+
 **自分でできる部分を増やすほど費用は下がる。** 業者に任せるのは「搬出と廃棄」だけにして、仕分けは自分で行うと大幅にコストを削減できる。
 
 ---
@@ -116,7 +123,7 @@ X（旧Twitter）には「親の死後に実家の片付けをした体験談」
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>仕分けが終わったら連絡するだけ。実家の遺品・不用品をまとめて回収します。費用を事前に確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -151,5 +158,5 @@ X（旧Twitter）には「親の死後に実家の片付けをした体験談」
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>仕分けが終わったら連絡するだけ。実家の遺品・不用品をまとめて回収します。今すぐ無料見積もりを確認。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

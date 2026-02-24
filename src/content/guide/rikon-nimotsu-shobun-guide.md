@@ -41,7 +41,7 @@ keywords: ["離婚 荷物 処分", "元妻 私物 勝手に捨てていい", "�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>自分名義の荷物・共有家具の処分は対応可能。まずは費用の目安を確認してみましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ## 法的に問題のない荷物処分の進め方
@@ -112,7 +112,7 @@ X上では「離婚後の荷物問題で相手に嫌がらせのように物を�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>自分が処分できる荷物の回収に対応。量に関わらず相談可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ## 状況別の対処方針
@@ -124,6 +124,13 @@ X上では「離婚後の荷物問題で相手に嫌がらせのように物を�
 | 共有の家具を処分したい（財産分与未了） | 協議を先に終わらせる。合意書を作成してから処分 |
 | 自分の荷物と相手の荷物が混在している | 自分の持ち物は写真に残してから処分業者に依頼 |
 | 急いで処分したい（家賃発生中等） | 弁護士に相談し、法的手続きの加速を検討 |
+
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>FireWorks — まとめて無料見積もり</h3>
+<p>複数業者の料金をまとめて比較。無料で相場確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
+</div>
 
 ## 法律相談窓口
 
@@ -160,5 +167,5 @@ A. 「明らかなゴミ」の範囲は主観によって異なります。判�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>自分名義の荷物・合意済みの共有財産の処分に対応。急ぎの相談も受け付けています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

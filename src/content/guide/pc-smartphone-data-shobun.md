@@ -43,7 +43,7 @@ Windowsの「PCをリセットする（出荷時設定）」、スマホの「�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>データ消去済みのPC・スマホをまとめて処分できます。他の家電との同時回収も対応。費用を事前確認。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ### Windows PCのデータ消去手順（個人向け）
@@ -78,7 +78,7 @@ Windowsの「PCをリセットする（出荷時設定）」、スマホの「�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>PC・スマホ複数台をまとめて処分できます。データ消去は事前に行っていただく必要があります。まず無料見積もりを確認。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -115,6 +115,19 @@ PCリサイクルマーク（グリーンの矢印マーク）が貼付されて
 
 ---
 
+## 状況別: どの処分方法が向いているか
+
+### データ消去が最優先の場合
+→ 専門業者 or 自力消去 + 自治体リサイクル
+
+### 急いで処分したい場合
+→ 不用品回収業者（即日対応可）
+
+### できるだけ費用を抑えたい場合
+→ 家電量販店リサイクル or 自治体回収
+
+---
+
 ## まとめ：PC・スマホ処分は「データ消去が最優先」
 
 PC・スマホを処分する際に最も重要なのは**データの完全消去**。初期化だけでなく、専用消去ソフトによる上書き消去か物理破壊を行うことが安全だ。
@@ -125,5 +138,5 @@ PC・スマホを処分する際に最も重要なのは**データの完全消�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>データ消去済みのPC・スマホを複数台まとめて回収。他の家電との同時回収も可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>
