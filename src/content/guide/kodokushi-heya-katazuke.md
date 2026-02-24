@@ -9,11 +9,7 @@ keywords: ["孤独死 部屋 片付け", "特殊清掃 費用 相場", "孤独�
 
 ※本記事にはアフィリエイト広告（PR）が含まれます。
 
-## 「業者選びを間違えると費用が数倍になる」— X上の体験談から学ぶ
-
-X（旧Twitter）では「孤独死の現場を片付けた体験」を投稿している人がいる。その中には「業者選びを間違えると費用が数倍になる」という声も見られる。急いで最初に見つけた業者に連絡してしまい、相場の3〜5倍の費用を請求されたという事例もある。
-
-50歳の木村さん（仮名）は先日、独居の父が孤独死で発見された。賃貸アパートで亡くなっており、部屋の特殊清掃と片付けを急いで行わなければならない状況だ。
+木村さん（50歳）の父が、独居のアパートで孤独死により発見された。発見から数日が経過しており、部屋は特殊清掃が必要な状態だった。「どの業者に頼めばいいのか」「費用はどのくらいかかるのか」——精神的にも追い詰められている中で、生まれて初めての経験に木村さんは途方に暮れていた。
 
 このガイドでは、孤独死後の特殊清掃と片付けの正しい進め方と費用相場を解説する。
 
@@ -67,7 +63,7 @@ X（旧Twitter）では「孤独死の現場を片付けた体験」を投稿し
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>特殊清掃後の遺品整理・不用品回収に対応。丁寧な対応で守秘義務を守ります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 | 業者種別 | 役割 | 費用の目安 |
@@ -82,7 +78,7 @@ X（旧Twitter）では「孤独死の現場を片付けた体験」を投稿し
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>特殊清掃後の遺品整理・不用品回収に対応。許可証保有・守秘義務遵守で安心してご依頼いただけます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -126,6 +122,22 @@ X（旧Twitter）では「孤独死の現場を片付けた体験」を投稿し
 
 ---
 
+## 状況別: 孤独死対応で最適な業者の選び方
+
+### 賃貸物件で発見が早かった場合（1〜2日以内）
+→ 特殊清掃の必要性が低い場合もある。まず遺品整理業者に状態確認を依頼し、必要なら特殊清掃業者を紹介してもらう
+
+### 発見が遅れて腐敗が進んでいる場合
+→ 特殊清掃専門業者が必須。ハウスクリーニング業者では対応不可。許可証（廃棄物処理業許可）を持つ業者を選ぶ
+
+### 賃貸物件で大家への対応が必要な場合
+→ 特殊清掃＋原状回復まで一括対応できる業者が便利。火災保険（孤独死特約）が使えるか先に確認する
+
+### 費用を抑えたい場合
+→ 特殊清掃後、自分で遺品の仕分けを行い、不用品回収業者だけ依頼する方法で費用を半減できることも
+
+---
+
 ## まとめ：孤独死後の対応は「業者選び」が最も重要
 
 孤独死後の特殊清掃は緊急を要するが、**焦って業者を選ぶと費用が数倍になるリスクがある**。
@@ -136,5 +148,5 @@ X（旧Twitter）では「孤独死の現場を片付けた体験」を投稿し
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>特殊清掃後の遺品整理・不用品回収に対応。許可証保有・守秘義務遵守。まず見積もりをご確認ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>
