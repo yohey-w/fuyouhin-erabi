@@ -58,7 +58,7 @@ X（旧Twitter）では「洗濯機処分に思ったより費用がかかった
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>洗濯機を買い替えなくても処分できます。1台からでも対応可能。無料見積もりはこちら。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ### 方法2：指定引取場所への持ち込み
@@ -143,7 +143,7 @@ X（旧Twitter）では「洗濯機処分に思ったより費用がかかった
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>洗濯機の処分方法に迷ったらFireWorksへ。縦型・ドラム式いずれも対応、費用を事前確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -158,5 +158,5 @@ X（旧Twitter）では「洗濯機処分に思ったより費用がかかった
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>洗濯機1台から対応可能。ドラム式でも安心。今すぐ無料見積もりで費用を確認。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

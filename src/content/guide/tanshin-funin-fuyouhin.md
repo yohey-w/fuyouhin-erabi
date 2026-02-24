@@ -51,7 +51,7 @@ X（旧Twitter）では「単身赴任終了時の片付けが思ったより大
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>単身赴任終了時の引っ越し前の片付けに対応。家電・家具まとめて即日回収可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ### 時間がかかる処分方法（事前に予約が必要）
@@ -123,7 +123,7 @@ X（旧Twitter）では「単身赴任終了時の片付けが思ったより大
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>単身赴任終了時の片付けはFireWorksへ。退去日まで日程が少なくても即日対応可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -138,5 +138,5 @@ X（旧Twitter）では「単身赴任終了時の片付けが思ったより大
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>単身赴任終了の引っ越し前片付けをまるごとサポート。急ぎの対応も可能です。今すぐ無料見積もりを確認。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>
