@@ -23,15 +23,19 @@ keywords: ["ソファ 処分 費用", "大型家具 粗大ゴミ", "ソファ �
 
 ## 「大きいソファの処分で困った」——X上の実体験
 
-X上では「大きいソファの処分で困った、業者に即日来てもらえた」という投稿を見かけます。粗大ゴミの予約が詰まっている時期に、業者に電話したら翌日または当日に来てもらえたというケースです。
+> 「大きいソファの処分で困った。業者に電話したら即日来てもらえた」— @引越し片付け体験
 
-また「フリマで売ろうとしたが引き取り手がゼロだった」という声も多い。大型ソファは重くて運搬が大変なため、フリマアプリ上でも「受け取りに来られる方のみ」という条件がつきやすく、引き取り手がほとんどいないという結果になりがちです。ソファをフリマに出す前に、この点は頭に入れておく必要があります。
+粗大ゴミの予約が詰まっている時期に、業者に電話したら翌日または当日に来てもらえたというケースです。
+
+> 「フリマで売ろうとしたが引き取り手がゼロだった。大型家具は難しい」— @フリマ失敗体験
+
+大型ソファは重くて運搬が大変なため、フリマアプリ上でも「受け取りに来られる方のみ」という条件がつきやすく、引き取り手がほとんどいないという結果になりがちです。ソファをフリマに出す前に、この点は頭に入れておく必要があります。
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>ソファ・大型家具の即日〜翌日回収に対応。引越し前の急ぎ処分もご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>ソファの処分費用は業者・搬出条件によって変わります。まず費用感だけ確認を。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -49,7 +53,7 @@ X上では「大きいソファの処分で困った、業者に即日来ても�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>ソファ・大型家具の急ぎ処分もお任せ。まず無料見積もりで費用を確認してください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -153,5 +157,5 @@ X上では「大きいソファの処分で困った、業者に即日来ても�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>ソファ・大型家具の即日〜翌日回収に対応。搬出困難な場所もご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

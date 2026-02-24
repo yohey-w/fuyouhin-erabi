@@ -23,17 +23,21 @@ keywords: ["空き家 片付け 業者", "実家 荷物 全部出す", "空き�
 
 ## 「自分ではとても無理だった、業者に頼んで正解」——空き家片付けのリアル
 
-X上では「空き家の片付けは自分ではとても無理だった、業者に頼んで正解」という投稿が多く見られます。「最初は自分でやろうとしたが、1日かけても全体の1割も終わらなかった。費用はかかるけど業者を頼むしかなかった」というパターンです。
+> 「空き家の片付けは自分ではとても無理だった。1日かけて1割も終わらず、業者に頼んで正解だった」— @実家片付け体験
 
-また「売却前の片付けで思わぬ出費があった」という声もあります。片付け費用に加えて、ハウスクリーニング・庭の手入れ・残置物の処分費用などが積み上がり、想定より高くなった——という経験談です。
+「最初は自分でやろうとしたが、1日かけても全体の1割も終わらなかった。費用はかかるけど業者を頼むしかなかった」というパターンです。
+
+> 「売却前の片付けで思わぬ出費があった。ハウスクリーニングや庭の費用まで想定してなかった」— @空き家売却体験
+
+片付け費用に加えて、ハウスクリーニング・庭の手入れ・残置物の処分費用などが積み上がり、想定より高くなった——という経験談です。
 
 **費用の見通しをつけてから動くことが、売却計画の第一歩になります。**
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>空き家の大量家財処分・実家まるごと片付けに対応。無料見積もりから始められます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>空き家片付けの費用感がわからない段階でも相談OK。まず見積もりだけ取ることができます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -53,7 +57,7 @@ X上では「空き家の片付けは自分ではとても無理だった、業�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>空き家・実家の大量家財もまるごと対応。まず無料見積もりで費用の目安を確認しましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 **費用を大きく左右する要因：**
@@ -175,5 +179,5 @@ A. 業者によります。農機具・廃タイヤ・廃材等は産業廃棄�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>空き家・実家の大量家財をまるごと回収。売却前の片付けもお任せください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

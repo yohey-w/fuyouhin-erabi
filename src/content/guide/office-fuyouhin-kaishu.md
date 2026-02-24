@@ -23,17 +23,21 @@ keywords: ["オフィス 不用品回収 法人", "事務所 移転 廃棄物", 
 
 ## 「産廃か一廃かで業者が変わるって知らなかった」——担当者の失敗談
 
-X上では「会社移転で不用品回収業者に頼んだら個人より法人価格で安かった」という声があります。法人は複数回の利用や大量回収が多いため、個人より割安になるケースがあるのは事実です。
+> 「会社移転で不用品回収業者に頼んだら、個人より法人価格で安かった。まとめてお願いできてよかった」— @企業移転担当者
 
-一方で「産廃か一廃かで業者が変わるって知らなかった」という投稿もあります。産業廃棄物として処理が必要なものを一廃業者に頼んでしまうと、不法投棄のリスクが生じる上に、会社が排出事業者として責任を問われる可能性があります。この区分の誤りが最大のリスクです。
+法人は複数回の利用や大量回収が多いため、個人より割安になるケースがあるのは事実です。
+
+> 「産廃か一廃かで業者が変わるって知らなかった。最初から区分を確認しておくべきだった」— @オフィス移転体験
+
+産業廃棄物として処理が必要なものを一廃業者に頼んでしまうと、不法投棄のリスクが生じる上に、会社が排出事業者として責任を問われる可能性があります。この区分の誤りが最大のリスクです。
 
 **まず区分を正しく理解することが、オフィス廃棄物対応の第一歩です。**
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>法人・オフィスの大量不用品（机・棚・家電等）を一括回収。法人見積もり対応可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>法人の廃棄物処理、何から始めればいいか費用感だけでも先に確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ---
@@ -64,7 +68,7 @@ X上では「会社移転で不用品回収業者に頼んだら個人より法�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 無料見積もりで複数社を比較</h3>
 <p>法人・オフィスの一廃（机・棚・家具等）を一括回収。法人見積もり・複数拠点対応も可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ---
@@ -178,5 +182,5 @@ A. 前テナントの什器が残置されていた場合、原則として新�
 <span class="cta-badge">PR</span>
 <h3>FireWorks — 不用品回収</h3>
 <p>法人のオフィス廃棄物（一廃部分）を一括対応。大量の机・棚・家具の回収もお任せください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>
