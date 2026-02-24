@@ -125,13 +125,6 @@ X上では「離婚後の荷物問題で相手に嫌がらせのように物を�
 | 自分の荷物と相手の荷物が混在している | 自分の持ち物は写真に残してから処分業者に依頼 |
 | 急いで処分したい（家賃発生中等） | 弁護士に相談し、法的手続きの加速を検討 |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>FireWorks — まとめて無料見積もり</h3>
-<p>複数業者の料金をまとめて比較。無料で相場確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
-</div>
-
 ## 法律相談窓口
 
 個別の事情によって対応が変わります。以下の窓口を活用してください：
