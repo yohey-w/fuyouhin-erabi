@@ -148,6 +148,16 @@ keywords: ["冷蔵庫 処分 費用", "冷蔵庫 廃棄 方法", "冷蔵庫 リ�
 
 ---
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ
 
 冷蔵庫の処分費用は状況によって大きく変わります：

@@ -25,12 +25,12 @@ keywords: ["実家 片付け 業者", "不用品回収 実家 まるごと", "�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>実家まるごとの片付けも対応可能。まずは費用の目安だけでも確認しておきましょう。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>実家まるごとの片付け費用、「いくらかかるか」だけ先に確認できます。費用感がわからない段階でも相談OKです。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
-## 実家の片付けにかかる費用 — 間取り別・品目別の相場
+## 「業者に頼んだら30万かかったけど頼んでよかった」——費用の相場と実態
 
 > 「業者に頼んだら30万かかった。でも正直、自分一人じゃ体力的にも精神的にも無理だったと思う。頼んでよかった」（X/Twitterより）
 
@@ -90,6 +90,8 @@ keywords: ["実家 片付け 業者", "不用品回収 実家 まるごと", "�
 
 ## 業者選びの3つのポイント
 
+> 「3社に見積もりを取って対応を比べた。金額だけじゃなく、説明の丁寧さで選んだ業者が当日も安心できた」（X/Twitterより）
+
 ### ポイント1: 廃棄物処理の許可証を確認する
 
 不用品回収業者が廃棄物を処理するためには「一般廃棄物収集運搬業許可」などの許可が必要です。無許可業者は安く見えることがありますが、不法投棄が発覚した場合に依頼主に問題が及ぶリスクもゼロではありません。見積もり時に許可証の提示を求めましょう。
@@ -104,9 +106,9 @@ Googleマップや価格比較サイトの口コミは参考になります。�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>許可取得済み・現地見積もり無料。急ぎの対応や実家丸ごとの片付けも相談できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>許可取得済み・現地見積もり無料。複数社を比較することで最安値と業者の質が同時にわかります。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
 
 ## ぼったくり業者を事前に見抜くチェックリスト
@@ -160,6 +162,16 @@ A. 優良業者であれば見積もりは無料で、断っても費用は発�
 **Q. 作業はどのくらいの時間がかかりますか？**
 A. 間取りにもよりますが、2LDK程度であれば2〜4時間が目安です。事前に荷物が仕分けられていると作業時間が短くなり、費用が下がることもあります。
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ
 
 実家の片付けは体力・精神力・時間の3つが同時にかかる作業です。業者を上手に使えば、その負担を大幅に減らせます。
@@ -170,7 +182,7 @@ A. 間取りにもよりますが、2LDK程度であれば2〜4時間が目安�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>実家まるごとの片付け対応可。許可証あり、見積もり無料。相談だけでも受け付けています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐFireWorksに申し込む</h3>
+<p>実家まるごとの片付けは、早めに連絡するほど希望の日程を確保しやすくなります。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>

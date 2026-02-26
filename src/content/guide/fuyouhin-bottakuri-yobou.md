@@ -23,7 +23,7 @@ keywords: ["不用品回収 ぼったくり 見分け方", "不用品回収 ト�
 - 正しい料金相場（品目別・量別の目安）
 - 万が一トラブルになったときの相談窓口
 
-## 不用品回収のぼったくりが「なくならない」理由
+## 「見積もり3万が当日8万に」——ぼったくりが繰り返される理由
 
 > 「見積もり3万って言われたのに当日8万請求された。荷物積んだ後に言われたら断れなかった。本当に最悪」（X/Twitterより）
 
@@ -35,9 +35,9 @@ X上で「不用品回収 ぼったくられた」を検索すると、怒りの
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>許可取得済み。見積もり無料・書面確認あり。料金トラブルの心配なしで依頼できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — まず料金の目安を確認</h3>
+<p>「どれくらいかかるか」だけ先に確認したい段階でも相談OKです。書面見積もり対応で料金トラブルの心配なし。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">まず料金の目安だけ確認する →</a>
 </div>
 
 ## 悪徳業者が使う5つの手口
@@ -120,6 +120,8 @@ X上で「不用品回収 ぼったくられた」を検索すると、怒りの
 
 ## 「安い業者」と「適正価格の良い業者」の見分け方
 
+> 「ちゃんと書面で金額確認してから頼んだら見積もり通りで終わった。めんどくさがらずやってよかった」（X/Twitterより）
+
 安さには種類があります。
 
 **本当に安い業者が存在する理由:**
@@ -136,10 +138,20 @@ X上で「不用品回収 ぼったくられた」を検索すると、怒りの
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>現地見積もり後に書面で金額確定。追加料金の条件は事前に明示します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>現地見積もり後に書面で金額確定。複数社を比べることで、対応の差と適正価格が同時にわかります。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">他社と無料で見積もりを比較する →</a>
 </div>
+
+## あなたの状況別：対応方法
+
+| 状況 | 対応方針 |
+|------|---------|
+| 急ぎで処分が必要（引っ越し前等） | 2〜3社に同日電話→書面見積もりを確認→対応の丁寧さで選ぶ |
+| 時間に余裕がある | 余裕を持って複数社から見積もり取得→口コミ・許可証で比較 |
+| 少量処分（1〜3点） | 1点対応の業者を選び、追加料金の条件を事前に確認 |
+| 大量処分（引っ越し丸ごと等） | 積み放題プランで複数社比較→必ず現地見積もりを要求 |
+| 過去にぼったくられた経験がある | 7項目チェックリストで事前スクリーニング→書面確認後のみ依頼 |
 
 ## もしトラブルになったときの相談窓口
 
@@ -175,7 +187,7 @@ A. 家電リサイクル法の対象品（テレビ・冷蔵庫・洗濯機・�
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 不用品回収</h3>
-<p>許可取得済み・見積もり書面発行・追加料金の条件は事前説明。安心して依頼できる体制を整えています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐFireWorksに申し込む</h3>
+<p>許可取得済み・書面見積もり対応・追加料金の条件は事前説明。早めに連絡することで日程も確保しやすくなります。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMK5U+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐFireWorksに申し込む →</a>
 </div>
