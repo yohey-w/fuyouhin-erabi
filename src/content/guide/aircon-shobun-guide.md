@@ -153,6 +153,16 @@ X（旧Twitter）では「エアコン処分がこんなに高いとは思わな
 
 ---
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ：エアコン処分の費用を抑えるために
 
 エアコン処分で予想外の出費を防ぐには、**取り外し工事費・リサイクル料金・収集運搬費の3つを全て把握した上で業者を選ぶ**ことが重要だ。

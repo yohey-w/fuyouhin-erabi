@@ -174,6 +174,16 @@ A. 事前見積もり時に荷物量を正確に伝えていれば、このよ�
 **Q. 「リサイクル料は別途」と言われた場合は正当な追加請求ですか？**
 A. 家電リサイクル法の対象品（テレビ・冷蔵庫・洗濯機・エアコン）については、メーカーへのリサイクル料金が法律で定められています。この料金自体は正当ですが、最初から「料金に含まれている」と言っていたなら問題です。事前確認が必要です。
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ：手口を知れば防げる
 
 不用品回収のぼったくりは、知識があれば大部分を防げます。

@@ -107,6 +107,17 @@
   見積前の条件固定質問を送ると、実務整合を確認できます。
   問い合わせ時の回答速度と具体性を比較材料にします。
   会話ログが残る形で整理すると、判断の再現性が高まります。
+
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ
 三鷹市の口コミは有益ですが、条件を同一化して読むことが精度を左右します。
 地域データで前提条件を揃えた比較を行うと、判断しやすい軸がつきます。
