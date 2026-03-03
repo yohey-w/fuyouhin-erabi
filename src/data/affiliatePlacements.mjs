@@ -52,9 +52,9 @@ export const affiliatePlacements = {
   bottom: {
     title: '最後に料金条件を再確認して依頼先を決定',
     description:
-      '迅速片付け屋は審査中のため、提携後に正式リンクへ差し替え予定です。比較前の候補としてチェックしておきましょう。',
-    buttonText: '迅速片付け屋の最新情報を確認する →',
-    affiliateUrl: affiliatePrograms.jinsokuKatadukeya.affiliateUrl,
+      '見積もり内容と追加料金の有無を最終チェック。納得できる条件で依頼先を決めましょう。',
+    buttonText: 'FireWorksの最新条件を確認する →',
+    affiliateUrl: affiliatePrograms.fireworks.affiliateUrl,
     note: PR_NOTE,
   },
 };
