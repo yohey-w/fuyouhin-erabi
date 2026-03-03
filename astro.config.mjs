@@ -6,7 +6,7 @@ import { affiliatePlacements } from './src/data/affiliatePlacements.mjs';
 
 export default defineConfig({
   site: 'https://fuyouhin-erabi.com',
-  integrations: [sitemap()],
+  integrations: [sitemap({ lastmod: new Date() })],
   output: 'static',
   build: {
     format: 'directory',
