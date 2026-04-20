@@ -18,6 +18,7 @@ const { Content } = await render(entry);
 <BaseLayout
   title={entry.data.title}
   description={entry.data.description}
+  entry={entry}
   breadcrumbs={[
     { label: '口コミ', href: '/#articles' },
     { label: entry.data.title },

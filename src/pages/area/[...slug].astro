@@ -19,6 +19,7 @@ const ogImage = `/images/articles/${slug}-ogp.png`;
 <BaseLayout
   title={entry.data.title}
   description={entry.data.description}
+  entry={entry}
   breadcrumbs={[
     { label: '地域から探す', href: '/#area' },
     { label: `${areaName}の不用品回収` },
